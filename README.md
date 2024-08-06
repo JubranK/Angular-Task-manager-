@@ -1,3 +1,8 @@
+
+<img width="682" alt="Screenshot" src="https://github.com/user-attachments/assets/9728e32f-3d5b-4200-9458-35afe04e27bb">
+
+
+
 # Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
